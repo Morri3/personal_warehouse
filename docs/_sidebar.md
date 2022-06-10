@@ -1,5 +1,18 @@
+<div align = "center"
+
 [首页](docs/)
 
-[个人](docs/personal/) 
+</div>
+
+<div align = "center">
+
+[个人](docs/personal/)
+
+</div>
+
+<div align = "center">
 
 [分享](docs/share/)
+
+</div>
+
