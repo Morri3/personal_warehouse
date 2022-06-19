@@ -56,7 +56,7 @@
 
 [(๑•̀ㅂ•́)و✧OS试卷下载(๑•̀ㅂ•́)و✧](/docs/downloads/os试卷.rar "os试卷.")
 
-##### <a href="/docs/downloads/os试卷.rar" download="os试卷.rar" target="_blank">(๑•̀ㅂ•́)و✧OS试卷下载(๑•̀ㅂ•́)و✧</a>
+##### <a href="docs/downloads/os试卷.rar" download="os试卷.rar" target="_blank">(๑•̀ㅂ•́)و✧OS试卷下载(๑•̀ㅂ•́)و✧</a>
 
 ##### <a href="/docs/downloads/cn试卷.rar" download="cn试卷.rar">(๑•̀ㅂ•́)و✧CN试卷下载(๑•̀ㅂ•́)و✧</a>
 
